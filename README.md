@@ -21,6 +21,8 @@ Detailed Information: Access detailed information about each service provider, i
 
 ![Demo](demo.mp4)
 
+We were working on making a deployement in this link https://frontend-repo-iota.vercel.app/ but we got a bug with vercel
+
 ## Getting Started 🚀
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
