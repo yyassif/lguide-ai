@@ -1,0 +1,48 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+openai = "*"
+gitpython = "*"
+nest-asyncio = "*"
+fastapi = "*"
+python-multipart = "*"
+uvicorn = "*"
+python-jose = "*"
+asyncpg = "*"
+flake8 = "*"
+flake8-black = "*"
+pyright = "*"
+html5lib = "*"
+newspaper3k = "*"
+python-dotenv = "*"
+pytest-mock = "*"
+async-generator = "*"
+jq = "*"
+pytest = "*"
+langchain = "*"
+langchain-community = "*"
+langchain-openai = "*"
+pydantic-settings = "*"
+langfuse = "*"
+colorlog = "*"
+psycopg2-binary = "*"
+psycopg2 = "*"
+pytest-dotenv = "*"
+unidecode = "*"
+flashrank = "*"
+pyinstrument = "*"
+playwright = "*"
+duckduckgo-search = "*"
+googlemaps = "*"
+boto3 = "*"
+botocore = "*"
+
+[dev-packages]
+black = "*"
+ipykernel = "*"
+
+[requires]
+python_version = "3.11"
