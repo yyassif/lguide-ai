@@ -34,7 +34,7 @@ function AIResponse(props: AIResponseProps) {
         height: '50vh',
     }
     const { isLoaded, loadError } = useLoadScript({
-        googleMapsApiKey: 'AIzaSyAbT9GTaIaNHEtVYXqhJtq17FoJ3-BYRso',
+        googleMapsApiKey: process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY as string,
       });
     if (loadError) {
         return <div></div>;
