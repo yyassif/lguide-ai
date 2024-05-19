@@ -19,7 +19,7 @@ Detailed Information: Access detailed information about each service provider, i
 
 ## Demo Highlights 🎥
 
-<!-- https://github.com/yyassif/thinkai-lguide/assets/video-image -->
+![Demo](demo.mp4)
 
 ## Getting Started 🚀
 
