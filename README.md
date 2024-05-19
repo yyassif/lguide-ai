@@ -19,7 +19,7 @@ Detailed Information: Access detailed information about each service provider, i
 
 ## Demo Highlights 🎥
 
-![https://github.com/yyassif/lguide-ai/raw/main/demo.mp4](demo)
+![https://github.com/yyassif/lguide-ai/raw/main/demo.mp4](demo.mp4)
 
 ## Getting Started 🚀
 
